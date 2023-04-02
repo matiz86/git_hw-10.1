@@ -43,7 +43,7 @@ virtual_ipaddress {
 ![alt text](https://github.com/matiz86/git_hw-10.1/blob/main/VirtualBox_zabbix_test_02_04_2023_11_13_02.png)
 
 
-NODE 1
+NODE 2
 
 vrrp_instance zadanie_1 {
 
